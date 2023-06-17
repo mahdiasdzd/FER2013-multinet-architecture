@@ -11,6 +11,7 @@ These architectures include:
 * EfficientNet-b3
 * Mobilenet-V2
 * Xception
+* Alexnet
 * simple-CNN
 * simple-ANN
 * In the future, more networks will be added to this collection
