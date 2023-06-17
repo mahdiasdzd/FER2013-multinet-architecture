@@ -15,3 +15,7 @@ These architectures include:
 * simple-ANN
 * In the future, more networks will be added to this collection
 - We compare these networks using accuracy and data loss values.
+### dataset:
+https://www.kaggle.com/datasets/msambare/fer2013
+### Model weights
+You can download the learned weights from following link. 
