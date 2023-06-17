@@ -14,4 +14,4 @@ These architectures include:
 * simple-CNN
 * simple-ANN
 * In the future, more networks will be added to this collection
-We compare these networks using accuracy and data loss values.
+- We compare these networks using accuracy and data loss values.
